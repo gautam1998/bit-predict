@@ -8,7 +8,7 @@ This project is an extension of the project in the Zero to Mastery TensorFlow fo
 
 ## Modelling Experiments
 
-<img src="images/modelling_experiments.png"/>
+<img src="images/modelling_experiments2.png"/>
 
 ## How to Reproduce
 
