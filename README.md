@@ -4,7 +4,7 @@
 
 <img src="images/naive_forcast.png"/>
 
-This project is an extension of the project in the Zero to Mastery TensorFlow for Deep Learning course taken by Daniel Bourke
+This project is an extension of the project in the Zero to Mastery TensorFlow for Deep Learning course taught by Daniel Bourke
 
 ## Modelling Experiments
 
